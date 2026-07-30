@@ -28,3 +28,4 @@ int main()
 //double
 
 //boolean
+//0 and 1 or True and False
